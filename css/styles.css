@@ -53,7 +53,32 @@ font-weight: 700;
     color: #404bbf;
 }
 
-.page-footer {
-    background: #2e2f42;
+.section-1 {
+    background-color: #2e2f42;
 }
 
+.section-h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+.section-button {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        background-color: #4d5ae5
+}
+.section-button {
+color: #ffffff;
+cursor: pointer;
+}
+.section-button:hover,
+.section-button:focus {
+    background-color: #404bbf;
+}
