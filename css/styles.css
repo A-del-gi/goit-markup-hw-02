@@ -110,6 +110,11 @@ color: #434455;
         text-align: center;
         color: #2e2f42;
         background-color: #F4F4FD
+        text-transform: capitalize
+}
+
+.page-team {
+background-color: #F4F4FD
 }
 
 .page-mark {
