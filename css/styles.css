@@ -151,11 +151,13 @@ background-color: #F4F4FD
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
-        text-transform: capitalize;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
-
+.our-li {
+   color: #FFFFFF;
+}
 
 .page-banking {
     font-weight: 500;
