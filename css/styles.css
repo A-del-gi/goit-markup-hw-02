@@ -113,6 +113,10 @@ color: #434455;
         text-transform: capitalize
 }
 
+.our-team {
+    background: #f4f4fd;
+}
+
 .page-team {
 background-color: #F4F4FD
 }
@@ -134,7 +138,11 @@ background-color: #F4F4FD
         letter-spacing: 0.02em;
         text-align: center;
         color: #434455;
-        background-color: #FFFFFF
+        
+}
+
+.our-portfolio {
+    background-color: #F4F4FD;
 }
 
 .page-portfolio {
