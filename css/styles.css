@@ -115,7 +115,7 @@ color: #434455;
 }
 
 .our-team {
-    background: #f4f4fd;
+    background: #F4F4FD;
 }
 
 .page-team {
@@ -174,7 +174,7 @@ color: #434455;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
-        text-align: center;
+        
 }
 
 .page-app{
@@ -183,7 +183,7 @@ color: #434455;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
-        text-align: center;
+       
 }
 
 .page-footer {
@@ -192,14 +192,6 @@ color: #434455;
 
 .logo-part-footer {
     color: #f4f4fd;
-}
-
-.footer-logo {
-    display: flex;
-        align-items: center;
-        justify-content: flex-start;
-        flex-direction: row;
-        gap: 0px;
 }
 
 .footer-item {
