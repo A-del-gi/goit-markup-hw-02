@@ -129,6 +129,10 @@ color: #434455;
         text-transform: capitalize;
 }
 
+.section-lina {
+    background-color: #ffffff;
+}
+
 .page-mark {
     font-weight: 500;
         font-size: 20px;
